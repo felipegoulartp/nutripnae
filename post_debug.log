@@ -1,0 +1,419 @@
+Raw POST:
+
+
+Parsed POST:
+Array
+(
+)
+Raw POST:
+
+
+Parsed POST:
+Array
+(
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=0
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 0
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Blanche%5D%5B%5D=88
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [lanche] => Array
+                        (
+                            [0] => 88
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bref_manha%5D%5B%5D=67
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [ref_manha] => Array
+                        (
+                            [0] => 67
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=10
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 10
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bter%5D%5Blanche%5D%5B%5D=93
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [ter] => Array
+                (
+                    [lanche] => Array
+                        (
+                            [0] => 93
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bter%5D%5Blanche%5D%5B%5D=93&cardapio%5Bqui%5D%5Blanche%5D%5B%5D=101
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [ter] => Array
+                (
+                    [lanche] => Array
+                        (
+                            [0] => 93
+                        )
+
+                )
+
+            [qui] => Array
+                (
+                    [lanche] => Array
+                        (
+                            [0] => 101
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+
+
+Parsed POST:
+Array
+(
+)
+Raw POST:
+
+
+Parsed POST:
+Array
+(
+)
+Raw POST:
+cardapio%5Bseg%5D%5Blanche%5D%5B%5D=10
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [lanche] => Array
+                        (
+                            [0] => 10
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=93
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 93
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=93&cardapio%5Bseg%5D%5Blanche%5D%5B%5D=24
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 93
+                        )
+
+                    [lanche] => Array
+                        (
+                            [0] => 24
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=93&cardapio%5Bseg%5D%5Bref_manha%5D%5B%5D=93&cardapio%5Bseg%5D%5Blanche%5D%5B%5D=24
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 93
+                        )
+
+                    [ref_manha] => Array
+                        (
+                            [0] => 93
+                        )
+
+                    [lanche] => Array
+                        (
+                            [0] => 24
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=93&cardapio%5Bseg%5D%5Bref_manha%5D%5B%5D=93&cardapio%5Bseg%5D%5Blanche%5D%5B%5D=24&cardapio%5Bseg%5D%5Bref_tarde%5D%5B%5D=92
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 93
+                        )
+
+                    [ref_manha] => Array
+                        (
+                            [0] => 93
+                        )
+
+                    [lanche] => Array
+                        (
+                            [0] => 24
+                        )
+
+                    [ref_tarde] => Array
+                        (
+                            [0] => 92
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=93&cardapio%5Bseg%5D%5Bref_manha%5D%5B%5D=0&cardapio%5Bseg%5D%5Blanche%5D%5B%5D=24&cardapio%5Bseg%5D%5Bref_tarde%5D%5B%5D=92
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 93
+                        )
+
+                    [ref_manha] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [lanche] => Array
+                        (
+                            [0] => 24
+                        )
+
+                    [ref_tarde] => Array
+                        (
+                            [0] => 92
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=93&cardapio%5Bseg%5D%5Bref_manha%5D%5B%5D=0&cardapio%5Bseg%5D%5Blanche%5D%5B%5D=24&cardapio%5Bseg%5D%5Bref_tarde%5D%5B%5D=92&cardapio%5Bter%5D%5Bcafe%5D%5B%5D=0
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 93
+                        )
+
+                    [ref_manha] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [lanche] => Array
+                        (
+                            [0] => 24
+                        )
+
+                    [ref_tarde] => Array
+                        (
+                            [0] => 92
+                        )
+
+                )
+
+            [ter] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 0
+                        )
+
+                )
+
+        )
+
+)
+Raw POST:
+cardapio%5Bseg%5D%5Bcafe%5D%5B%5D=93&cardapio%5Bseg%5D%5Bref_manha%5D%5B%5D=0&cardapio%5Bseg%5D%5Blanche%5D%5B%5D=24&cardapio%5Bseg%5D%5Bref_tarde%5D%5B%5D=92&cardapio%5Bter%5D%5Bcafe%5D%5B%5D=0&cardapio%5Bqua%5D%5Bcafe%5D%5B%5D=67
+
+Parsed POST:
+Array
+(
+    [cardapio] => Array
+        (
+            [seg] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 93
+                        )
+
+                    [ref_manha] => Array
+                        (
+                            [0] => 0
+                        )
+
+                    [lanche] => Array
+                        (
+                            [0] => 24
+                        )
+
+                    [ref_tarde] => Array
+                        (
+                            [0] => 92
+                        )
+
+                )
+
+            [ter] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 0
+                        )
+
+                )
+
+            [qua] => Array
+                (
+                    [cafe] => Array
+                        (
+                            [0] => 67
+                        )
+
+                )
+
+        )
+
+)
